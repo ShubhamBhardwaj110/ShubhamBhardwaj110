@@ -3,13 +3,15 @@
 
 ### Computer Science Student
 
-- 🔭 I'm currently working on **A Full stack Project**
+- 🔭 I'm currently working as **a developer intern at BMO**
 
 - 🌱 I'm currently learning **Distributive and Parallel computing**
 
 - 💬 Ask me about **React, Backend, Cloud@AWS**
 
 - 📫 How to reach me **info67.shubham@gmail.com**
+
+- ☁️ AWS Certified Solution Architect
 
 - 👨‍💻 All of my projects are available at **[https://www.shubham.works](https://www.shubham.works)**
 
