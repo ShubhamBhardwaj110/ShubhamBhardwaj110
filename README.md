@@ -3,7 +3,7 @@
 
 ### Computer Science Student
 
-- 🔭 I'm currently working as **a developer intern at BMO**
+- 🔭 I was a software developer intern at BMO in summer 2026**
 
 - 🌱 I'm currently learning **Distributive and Parallel computing**
 
